@@ -23,5 +23,5 @@ To get a local copy up and running, follow these steps:
 
 Explore and test the API using Postman. The collection contains detailed requests for each API endpoint.
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/your-postman-collection-id)
+[![Run in Postman](https://run.pstmn.io/button.svg)]([https://www.getpostman.com/collections/your-postman-collection-id](https://documenter.getpostman.com/view/30449319/2s9YeHaWTz#3380afba-7e56-4047-9134-a39422fe1a8b)https://documenter.getpostman.com/view/30449319/2s9YeHaWTz#3380afba-7e56-4047-9134-a39422fe1a8b)
 
